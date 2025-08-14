@@ -1,7 +1,7 @@
 # Functional Requirements – Trip Expense Reporting System
 
 ## Overview
-A system to plan a short cab trip visiting tourist places (nature reserves, temples, museums), meet friends/relatives, choose nightly accommodation (hotel/lodge/resort) based on availability, track all expenses (transport, accommodation, food, entry tickets, miscellaneous), monitor budget, and generate an expense report for Father’s approval and reimbursement.
+A system to plan a short cab trip visiting tourist places (nature reserves, temples, museums), meet friends/relatives, choose nightly accommodation (hotel/lodge/resort) based on availability, track all expenses (transport, accommodation, food, entry tickets, miscellaneous), monitor budget, and generate an expense report for Father’s approval.
 
 ---
 
